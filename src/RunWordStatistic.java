@@ -1,4 +1,6 @@
-package word.statistic.mvc;
+import word.statistic.mvc.Kontroler;
+import word.statistic.mvc.Model;
+import word.statistic.mvc.Widok;
 
 /**
  * Created by gb on 2016-10-05.
